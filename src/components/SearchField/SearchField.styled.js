@@ -46,7 +46,7 @@ export const SearchFormButton = styled.button`
     opacity: 1;
   }
   :disabled {
-    background-color: #b443d6;
+    background-color: grey;
   }
 `;
 
